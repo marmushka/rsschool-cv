@@ -1,1 +1,1 @@
-# rsschool-cv
+(https://marmushka.github.io/rsschool-cv/cv)
