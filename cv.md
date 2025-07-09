@@ -6,5 +6,18 @@
 **LinkedIn:**		  [linkedin](https://www.linkedin.com/)\
 **Discord:**           marmushka_10104
 
-![Image](images\profile.webp)
+![Image](images/profile.webp)
 
+## About me
+## Professional development
+## Education 
+
+
+
+## Knowledge & skills
+**Language:** 		           
+**Programming languages:** 	    
+**Technologies/Tools/Frameworks:**  
+**Certificates:**
+## Completed projects
+## Code examples
